@@ -1,0 +1,12 @@
+@font-face{
+    font-family: 'Balsamiq';
+    src: url(./font/BalsamiqSans-Regular.ttf);
+}
+
+body{
+    font-family: Balsamiq;
+}
+
+div.postcard{
+    background: #fff;
+}

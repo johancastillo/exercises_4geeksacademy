@@ -9,3 +9,12 @@ in [4GeeksAcademy][4geekslink]
 <!-- Links -->
 [4geekslink]: https://instagram.com/4geeksacademyve
 [profile]: https://instagram/jcboxing2707
+
+### Content:
+
+* bootstrap
+
+* flexbox
+
+* floats
+    * digital-postcard 
