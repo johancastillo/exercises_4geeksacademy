@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.feed{
+    background: #e4e4e4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.feed .post{
+    background: #fff;
+    width: 520px;
+    height: auto;
+    margin: 20px 0;
+}
+
+.feed .post img{
+    width: 100%;
+}
+
+.feed .post .header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 10px;
+    align-items: center;
+}
+
+.feed .post .footer{
+    padding: 20px 10px;
+}
